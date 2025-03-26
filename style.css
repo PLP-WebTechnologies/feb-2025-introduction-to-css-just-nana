@@ -1,0 +1,22 @@
+#example{
+    color: rgb(46, 43, 226);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home-footer{
+    color:yellow;
+    font-weight: bold;
+}
+
+body {
+    background-image: url('leaves\ and\ that.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.main-header{
+    color: aquamarine;
+    font-style: italic;
+}
